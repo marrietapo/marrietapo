@@ -7,10 +7,9 @@ Mi nombre es Mauro, y que en el año 2018, invadido por la curiosidad, comencé 
 Si quieres contactarme 📫 tienes estas alternativas... 👇👇
 ~~~
 
-#### Puedes encontrarme en [Instagram](https://www.instagram.com/marrietapo/) 📷 o si lo prefieres en [LinkedIn](https://www.linkedin.com/in/mauro-arrieta-7a57b71a8/) 📥
+#### Puedes encontrarme en [Instagram](https://www.instagram.com/marrietapo/) 📷 o si lo prefieres en [LinkedIn](www.linkedin.com/in/marrietapo) 📥
 
 <!---
-[LinkedIn](https://www.linkedin.com/in/mauro-arrieta-7a57b71a8/)
 --->
 
 

@@ -1,7 +1,7 @@
 # Hello, amig@!👋😁
 
 ### ¡Es un gusto verte por aquí!
-Mi nombre es Mauro, y en el año 2018, invadido por la curiosidad, comencé estudios en Analista en Tecnologías de la Información en Universidad ORT Uruguay. 🖥️😊 Un tiempo después me encuentro en pleno desarrollo 🌱 y contrucción 🚧👷, explorando tecnologías y satisfaciendo nuevas inquietudes.
+Mi nombre es Mauro, y en el año 2018, invadido por la curiosidad, comencé estudios en Analista en Tecnologías de la Información en Universidad ORT Uruguay. 🖥️😊 Un tiempo después me encuentro en pleno desarrollo 🌱 y construcción 🚧👷, explorando tecnologías y satisfaciendo nuevas inquietudes.
 
 ~~~
 Si quieres contactarme 📫 tienes estas alternativas... 👇👇

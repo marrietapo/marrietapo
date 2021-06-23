@@ -7,7 +7,7 @@ Mi nombre es Mauro, y en el año 2018, invadido por la curiosidad, comencé estu
 Si quieres contactarme 📫 tienes estas alternativas... 👇👇
 ~~~
 
-#### Puedes encontrarme en [Instagram](https://www.instagram.com/marrietapo/) 📷 o si lo prefieres en [LinkedIn](www.linkedin.com/in/marrietapo) 📥
+#### Puedes encontrarme en [Instagram](https://www.instagram.com/marrietapo/) 📷 o si lo prefieres en [LinkedIn](https://www.linkedin.com/in/marrietapo) 📥
 
 <!---
 --->

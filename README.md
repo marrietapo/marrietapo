@@ -23,10 +23,30 @@ Mi nombre es Mauro, y en el año 2018, invadido por la curiosidad, comencé estu
 
 #### Contactos  
 
-~~~
 Si quieres contactarme 📫 tienes estas alternativas... 👇👇
-~~~
 
+<br/>  
+
+```javascript
+const username = 'marrietapo';
+
+let contact = (username: string, socialmedia: string) => {
+  switch (socialmedia.toUpperCase()) {
+    case 'LINKEDIN':
+      return `https://www.linkedin.com/in/${username}`;
+    case 'INSTAGRAM':
+      return `https://www.instagram.com/${username}`;
+    case 'DEV.TO':
+      return `https://dev.to/${username}`;
+    case 'GITHUB':
+      return `https://github.com/${username}`;
+    default:
+      return `Por el momento no dispongo de ${socialmedia}.`;
+  }
+};
+
+console.log(contact(username, '<Enter any social media here>'));
+```
 <!---#### Puedes encontrarme en [Instagram](https://www.instagram.com/marrietapo/) 📷 o si lo prefieres en [LinkedIn](https://www.linkedin.com/in/marrietapo) 📥--->
 
 
@@ -47,4 +67,5 @@ Si quieres contactarme 📫 tienes estas alternativas... 👇👇
 ![snake gif](https://github.com/marrietapo/marrietapo/blob/output/github-contribution-grid-snake.gif)
 
 </div> 
+
 
